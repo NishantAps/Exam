@@ -1,0 +1,2 @@
+WARNING: MSI appears to have the loopback address 127.0.0.1 as IP address
+This may imply that processes on MSI may not be able to connect to non-local processes
